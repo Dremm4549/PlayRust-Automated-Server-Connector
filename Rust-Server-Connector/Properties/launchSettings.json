@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rust-Server-Connector": {
+      "commandName": "Project",
+      "commandLineArgs": "monday.eu.moose.gg:28010"
+    }
+  }
+}
